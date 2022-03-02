@@ -3,6 +3,7 @@
 Currently, I'm studying Software Engineering at University of Minho.
 
 To contact me, you can send an email to: filiparebelo999@outlook.pt or  add me on Discord:filipa#5938
+
  <a href=" https://www.linkedin.com/in/filipa-rebelo-526382233/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=1b91b5 alt=linkedin style="margin-bottom: 15px;" />
 </a>
