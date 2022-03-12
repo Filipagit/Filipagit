@@ -8,7 +8,7 @@ To contact me, you can add me on Discord:filipa#5938 ,sent me a mail or on linke
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=1b91b5 alt=linkedin style="margin-bottom:15px;"/>
 </a>
 
-## Index  <img src="https://komarev.com/ghpvc/?username=Filipagit"/>
+## Visitors  <img src="https://komarev.com/ghpvc/?username=Filipagit"/>
  <div>
   <a href="https://github.com/Filipagit">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipagit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
